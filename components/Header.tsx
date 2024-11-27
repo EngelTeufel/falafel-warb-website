@@ -29,7 +29,7 @@ export default function Header() {
           <div className="relative w-48 md:w-56 lg:w-64 aspect-square">
             <div className="absolute inset-0 bg-white/85 rounded-full shadow-xl" />
             <Image
-              src="/images/logo.png"
+              src="/images/Logo.png"
               alt="Frische Falafel Warb Hamburg Logo"
               fill
               className="object-contain p-4 drop-shadow-md"
